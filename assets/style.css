@@ -11,6 +11,7 @@ header, footer {
 
 h1,h2 {
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 img {
@@ -19,6 +20,7 @@ img {
     width: 50px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 1em;
 }
 
 ul {
@@ -32,8 +34,9 @@ p {
 }
 .card {
     width: 80%;
+    border-radius: 1em;
     margin: 40px auto;
-    border: 5px solid gray;
+    border: 5px solid rgb(173, 32, 255);
     box-shadow: 5px 10px #888888;
     padding: 10px;
     background-color: rgba(198, 198, 247, 0.303);
